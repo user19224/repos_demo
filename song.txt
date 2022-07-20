@@ -1,1 +1,18 @@
 15884164
+
+int main(){
+int a;
+int b;
+class cl1 {
+cl1();
+void fun(){
+return b;
+}
+
+};
+class cl2: public cl1{
+
+};
+
+
+}
